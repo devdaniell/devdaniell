@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm devdaniel 🙂 </h1>
+<h1 align="center">Hi 👋, I'm devdaniel🙂</h1>
 <h3 align="center">A passionate & prospective fullstack developer from Nigeria :nigeria:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="devdaniel" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Development, Jquery, React, Vue, Angular etc @ <a href ="newhorizons.com">new horizons</a>**
+- 🌱 I’m currently learning **Fullstack Web Development, Jquery, React, Vue, Angular etc @ <a href ="newhorizons.com>new horizons</a>"**
+
+- 💬 Ask me about **web development**
+
+- ⚡ Fun fact **You're a Human Being🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,6 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/devdaniel"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devdaniel" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdaniel&show_icons=true&locale=en&layout=compact" alt="devdaniel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdaniel&" alt="devdaniel" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdaniel&show_icons=true&theme=dark&locale=en&layout=compact" alt="devdaniel" /></p>
