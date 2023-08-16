@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdaniel&label=Profile%20views&color=0e75b6&style=flat" alt="devdaniel" /> </p>
 
-- 🌱 I’m currently learning **Fullstack Web Development, Jquery, React, Vue, Angular etc @ <a href ="newhorizons.com">new horizons</a>**
+- 🌱 I've learnt techs likelik **Fullstack Web Development, Jquery, React, Vue, Angular etc @ <a href ="newhorizons.com">new horizons</a>**
 
 - 💬 Ask me about **web development**
 
